@@ -775,7 +775,13 @@ a:visited{
   border: 5px solid #ffbe33;
   position: relative;
 }
-
+/* .img-box img{
+  border-radius: 50%;
+  border: 5px solid #ffbe33;
+  position: relative;
+  height: 50px;
+  width: 50px;
+} */
 .client_section .box .img-box::before {
   content: "";
   position: absolute;
